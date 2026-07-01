@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6j0350/v1
+canonical_location: https://kanripo.org/bkk/KR6j0350/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 金剛壽命陀羅尼經
+  identifiers:
+    alt_id:
+    - T20n1134B
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1134B.xml
+    old_id: T20n1134B
+  edition:
+    short: bkk
+editions:
+- short: 原
+  label: 原
+  source_xml_id: wit1
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0350_000.yaml, hash: 'sha256:09a02eba4fb37bb2e82cabfe7fb97f47c87c6d44b5aa3781b3a9ca3d6c489302'}
+  - {seq: 1, filename: KR6j0350_001.yaml, hash: 'sha256:63f4de7821bd9575027541cf35f4b43a79f3f53b8af005bc11761e9fe29ef2cc'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0350_001.markers.yaml, hash: 'sha256:5d1c0cee54050d9f6da2b7f105ff7e3a9aa92f2834235c86e09799f7dc4df4c0'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0350_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 718
+  label: 金剛壽命陀羅尼經
+  type: juan
+  level: 1
+hash: sha256:6928d1c41c011b28ed77319bedf230e1f5d24daa9a444d3a6e3e41a5b6823489
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0350/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛壽命陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1134B.xml
+    old_id: T20n1134B
+hash: sha256:09a02eba4fb37bb2e82cabfe7fb97f47c87c6d44b5aa3781b3a9ca3d6c489302
