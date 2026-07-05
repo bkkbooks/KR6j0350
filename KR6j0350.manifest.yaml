@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0350_000.yaml, hash: 'sha256:09a02eba4fb37bb2e82cabfe7fb97f47c87c6d44b5aa3781b3a9ca3d6c489302'}
-  - {seq: 1, filename: KR6j0350_001.yaml, hash: 'sha256:63f4de7821bd9575027541cf35f4b43a79f3f53b8af005bc11761e9fe29ef2cc'}
+  - {seq: 1, filename: KR6j0350_001.yaml, hash: 'sha256:4cad8831f93fdf56a678cdda52a3b196eceea3ca02c0b280bb6a6613ee137192'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0350_001.markers.yaml, hash: 'sha256:5d1c0cee54050d9f6da2b7f105ff7e3a9aa92f2834235c86e09799f7dc4df4c0'}
+  - {seq: 0, role: markers, filename: assets/KR6j0350_000.markers.yaml, hash: 'sha256:baa9aa839dcaa20d4debb2bf6f215bd7f2ab0de1cc7f4cbbd30be6bed5495e2f'}
+  - {seq: 1, role: markers, filename: assets/KR6j0350_001.markers.yaml, hash: 'sha256:319a85783560e2a645b99a881593b855ffb07588dff4c1fbb82bfc9dd8a20ef6'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 金剛壽命陀羅尼經
   type: juan
   level: 1
-hash: sha256:6928d1c41c011b28ed77319bedf230e1f5d24daa9a444d3a6e3e41a5b6823489
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:9885cfd988e30ef2672124d38ebc19310c8383350dd2547571496dced47f4bc5
